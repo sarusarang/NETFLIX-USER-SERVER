@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "uname": "SARANG A",
+      "email": "sarangsaru445@gmail.com",
+      "pass": "1234",
+      "id": 1
+    },
+    {
+      "uname": "user12",
+      "email": "user12@gmail.com",
+      "pass": "1234",
+      "id": 2
+    },
+    {
+      "uname": "SA",
+      "email": "sa@12.gamail.com",
+      "pass": "12",
+      "id": 3
+    }
+  ],
+  "data": [
+    {
+      "stname": "IRON MAN",
+      "age": "44",
+      "attendance": "99",
+      "class": "AVENGERS",
+      "phone": "9169169161",
+      "id": 3
+    }
+  ]
+}
